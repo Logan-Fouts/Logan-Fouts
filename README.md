@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Logan-Fouts
 - 👀 I’m interested in Cloud Computing, Networking, CS, and Skateboarding
-- 🌱 I’m currently learning OOD and Java
+- 🌱 I’m currently learning OOAD;( and Java
 - 📫 How to reach me loganflogan@hotmail.com
 
 <!---
