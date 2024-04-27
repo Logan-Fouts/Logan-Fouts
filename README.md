@@ -4,7 +4,7 @@ I'm a passionate software enthusiast with a great interest in software developme
 
 ### How to Connect 📫
 
-You can contact me at loganfouts@lablogan.net. It can be for discussing tech, sharing project ideas, or just having a conversation, I'm always down to connect with others.
+You can contact me at loganfouts@proton.me. It can be for discussing tech, sharing project ideas, or just having a conversation, I'm always down to connect with others.
 
 Feel free to reach out!
 <!---
