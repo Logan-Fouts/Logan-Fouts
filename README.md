@@ -8,6 +8,7 @@ I build and launch tools and software from the circuit board to the web UI. I th
 
 - 🗓️ **[Contrib Cal](https://www.contrib-cal.com)** - An open-source IoT product visualizing GitHub activity on a physical LED calendar as well as a self host software hub. Now commercialized via **Electrow**
 - ⌨️ **[nuphy_linux](https://github.com/Logan-Fouts/nuphy_linux)** - C CLI utility for controlling NuPhy keyboards on Linux via USB HID done through reverse engineering
+- 📚 **Published Research** - Multi-algorithm image detection framework achieving **97% F1-score** and decreasing complexity significantly
 - 🤖 Training AI models as an **AI Training Programmer** at **Scale AI**
 
 ### 💻 Tech Stack
