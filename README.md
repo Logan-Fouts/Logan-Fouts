@@ -1,19 +1,35 @@
 ## 👋 Hi, I'm Logan Fouts
 
-**Software Developer**
+**Software & Embedded Developer** · Enköping, Sweden
 
-I build and launch tools and software from the circuit board to the web UI. I thrive on creating end-to-end solutions, whether it's a commercial IoT product, a full-stack web application, or a low-level system utility.
+I build things end to end, from the PCB and firmware up to the web UI. Most of my projects start with a problem I actually have, and I keep going until there's a working device or tool that other people can use too.
 
-### 🚀 What I'm Building
+### 🔧 Currently Building
 
-- 🗓️ **[Daily Grid](https://www.contrib-cal.com)** - An open-source IoT product visualizing GitHub and other productivity activity on a physical LED calendar as well as a self host software hub. Now commercialized via **Electrow**
-- ⌨️ **[nuphy_linux](https://github.com/Logan-Fouts/NuphyOnLinux)** - C CLI utility for controlling NuPhy keyboards on Linux via USB HID done through reverse engineering
-- 📚 **Published Research** - Multi-algorithm image detection framework achieving **97% F1-score** and decreasing complexity significantly
-- 🤖 Training AI models as an **AI Training Programmer** at **Scale AI**
+- 🎹 **[Plink](https://github.com/Logan-Fouts/Plink)**: A simple, affordable USB MIDI keyboard built on the Raspberry Pi Pico. Hall-effect key switches for velocity sensing, firmware in C, custom KiCad PCB, FreeCAD enclosure. **Sponsored by [PCBWay](https://www.pcbway.com)**. Work in progress.
+
+### 🚀 Projects
+
+- 🗓️ **[Daily Grid](https://github.com/Logan-Fouts/Daily-Grid)** ([contrib-cal.com](https://www.contrib-cal.com)): Open-source IoT LED calendar that shows your GitHub and other productivity activity on a physical grid. Custom PCB, Python/Bash firmware, systemd services and a web UI. Manufacturing partnership with **Elecrow**, PCBs sponsored by **PCBWay**.
+- ⌨️ **[NuphyOnLinux](https://github.com/Logan-Fouts/NuphyOnLinux)**: C command-line utility for controlling NuPhy keyboard lighting and key mappings on Linux, built by reverse engineering the USB HID protocol.
+- 📡 **[MeshBot](https://github.com/Logan-Fouts/MeshBot)**: Off-grid AI chat bot for Meshtastic/LoRa mesh networks, running a local model for when you're truly out of range.
+- 🖼️ **[Near-Duplicate Image Detection](https://github.com/Logan-Fouts/Thesis)**: My BSc thesis (Linnaeus University). A multi-method detection framework reaching a **97% F1-score**.
+
+### 💼 Work
+
+- 🤖 **AI Training Programmer @ Scale AI**: reviewing and correcting AI-generated code in Python and other languages.
+- 🛠️ **Freelance developer**: React / Node.js web apps and React Native mobile apps.
 
 ### 💻 Tech Stack
 
-`Python` `React` `Java` `Node.js` `Bash` `Rust` `C` `Linux` `Docker` `MySQL`
+**Languages:** `Python` `C` `Bash` `JavaScript` `Java` `MicroPython`
+
+**Embedded & Hardware:** `Micro controllers` `KiCad` `FreeCAD` `LoRa / Meshtastic`
+
+**Web:** `React` `Node.js` `Electron` `Tailwind` `React Native`
+
+**Tools & Systems:** `Linux` `systemd` `Docker` `Git` `GitHub Actions`
+
 
 ### 📫 Let's Connect
 
@@ -21,4 +37,4 @@ I build and launch tools and software from the circuit board to the web UI. I th
 - **Portfolio:** [logan-fouts.com](https://www.logan-fouts.com)
 - **LinkedIn:** [linkedin.com/in/logan-fouts](https://www.linkedin.com/in/logan-fouts)
 
-*Open to discussing tech, collaboration, or new opportunities.*
+*Open to full-time software, embedded and DevOps roles in the Stockholm / Västerås / Uppsala area or remote.*
