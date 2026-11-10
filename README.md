@@ -6,25 +6,25 @@ I build things end to end, from the PCB and firmware up to the web UI. Most of m
 
 ### 🔧 Currently Building
 
-- 🎹 **[Plink](https://github.com/Logan-Fouts/Plink)**: A simple, affordable USB MIDI keyboard built on the Raspberry Pi Pico. Hall-effect key switches for velocity sensing, firmware in C, custom KiCad PCB, FreeCAD enclosure. **Sponsored by [PCBWay](https://www.pcbway.com)**. Work in progress.
+- **[Plink](https://github.com/Logan-Fouts/Plink)**: A simple, affordable USB MIDI keyboard built on the Raspberry Pi Pico. Hall-effect key switches for velocity sensing, firmware in C, custom KiCad PCB, FreeCAD enclosure. **Sponsored by [PCBWay](https://www.pcbway.com)**. Work in progress.
 
 ### 🚀 Projects
 
-- 🗓️ **[Daily Grid](https://github.com/Logan-Fouts/Daily-Grid)** ([contrib-cal.com](https://www.contrib-cal.com)): Open-source IoT LED calendar that shows your GitHub and other productivity activity on a physical grid. Custom PCB, Python/Bash firmware, systemd services and a web UI. Manufacturing partnership with **Elecrow**, PCBs sponsored by **PCBWay**.
-- ⌨️ **[NuphyOnLinux](https://github.com/Logan-Fouts/NuphyOnLinux)**: C command-line utility for controlling NuPhy keyboard lighting and key mappings on Linux, built by reverse engineering the USB HID protocol.
-- 📡 **[MeshBot](https://github.com/Logan-Fouts/MeshBot)**: Off-grid AI chat bot for Meshtastic/LoRa mesh networks, running a local model for when you're truly out of range.
-- 🖼️ **[Near-Duplicate Image Detection](https://github.com/Logan-Fouts/Thesis)**: My BSc thesis (Linnaeus University). A multi-method detection framework reaching a **97% F1-score**.
+- **[Daily Grid](https://github.com/Logan-Fouts/Daily-Grid)** ([contrib-cal.com](https://www.contrib-cal.com)): Open-source IoT LED calendar that shows your GitHub and other productivity activity on a physical grid. Custom PCB, Python/Bash firmware, systemd services and a web UI. Manufacturing partnership with **Elecrow**, PCBs sponsored by **PCBWay**.
+- **[NuphyOnLinux](https://github.com/Logan-Fouts/NuphyOnLinux)**: C command-line utility for controlling NuPhy keyboard lighting and key mappings on Linux, built by reverse engineering the USB HID protocol.
+- **[MeshBot](https://github.com/Logan-Fouts/MeshBot)**: Off-grid AI chatbot for Meshtastic/LoRa mesh networks. It runs a local model, so it still works when you're out of cell range.
+- **[Near-Duplicate Image Detection](https://github.com/Logan-Fouts/Thesis)**: My BSc thesis (Linnaeus University). A multi-method detection framework reaching a **97% F1-score**.
 
 ### 💼 Work
 
-- 🤖 **AI Training Programmer @ Scale AI**: reviewing and correcting AI-generated code in Python and other languages.
-- 🛠️ **Freelance developer**: React / Node.js web apps and React Native mobile apps.
+- **AI Training Programmer @ Scale AI**: reviewing and correcting AI-generated code in Python and other languages.
+- **Freelance developer**: React / Node.js web apps and React Native mobile apps.
 
 ### 💻 Tech Stack
 
 **Languages:** `Python` `C` `Bash` `JavaScript` `Java` `MicroPython`
 
-**Embedded & Hardware:** `Micro controllers` `KiCad` `FreeCAD` `LoRa / Meshtastic`
+**Embedded & Hardware:** `Microcontrollers` `KiCad` `FreeCAD` `LoRa / Meshtastic`
 
 **Web:** `React` `Node.js` `Electron` `Tailwind` `React Native`
 
